@@ -1,6 +1,6 @@
 # Тестовое задание для компании AmoPoint
 
-### Как запустить laravel проект:
+### Как запустить laravel проект **ЛОКАЛЬНО**:
 - composer install
 - cp .env.example .env
 - php artisan key:generate
@@ -20,3 +20,5 @@
 - **127.0.0.1:8000/register** - регистрация
 - **127.0.0.1:8000/login** - авторизация
 - Графики построены с помощью библиотеки **Chart.js**
+
+**Сайт на хостинге - http://daniil885m.temp.swtest.ru/**
