@@ -8,7 +8,7 @@ use Illuminate\Console\Attributes\Signature;
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\Http;
 
-#[Signature('app:getAPIData')]
+#[Signature('api:getAPIData')]
 #[Description('Console command for get Bitcoin price and add it to db')]
 class getAPIData extends Command
 {
